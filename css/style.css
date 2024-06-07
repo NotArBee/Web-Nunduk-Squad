@@ -6,14 +6,15 @@
   margin-top: 6rem;
 }
 
-.foto-profile {
-  max-height: 10rem;
-}
-
 .sidebar {
-  width: 20vw;
+  width: 15vw;
+  position: fixed;
 }
 
+.main-content {
+  width: 85vw;
+  margin-left: 210px;
+}
 .footer a {
   color: #fff !important;
   text-decoration: none !important;
