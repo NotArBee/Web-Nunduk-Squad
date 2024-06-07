@@ -1,0 +1,27 @@
+.top-navbar {
+  background-color: #0c1740;
+}
+
+.dibawah-topbar-rapat {
+  margin-top: 6rem;
+}
+
+.foto-profile {
+  max-height: 10rem;
+}
+
+.sidebar {
+  width: 20vw;
+}
+
+.footer a {
+  color: #fff !important;
+  text-decoration: none !important;
+}
+
+.side-diklik {
+  background-color: #5a86e0;
+  color: white;
+  border-radius: 5px;
+  padding-left: 10px;
+}
